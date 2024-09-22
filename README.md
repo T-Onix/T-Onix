@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are public and free
 
-- 📫 How to text me on telegrm **@sunpsz**
+- 📫 You can text me on telegrm **@sunpsz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
