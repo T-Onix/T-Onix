@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm peyman</h1>
 <h3 align="center">I'm from iran</h3>
 
-- 🔭 I’m trying to develop new projects **good projects**
+- 🔭 I’m trying to develop new projects
 
 - 🌱 I’m currently learning **python and C**
 
-- 👨‍💻 All of my projects are [public and free](public and free)
+- 👨‍💻 All of my projects are public and free
 
 - 📫 How to text me on telegrm **@sunpsz**
 
