@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm peyman</h1>
-<h3 align="center">I'm from iran</h3>
 
 - 🔭 I’m trying to develop new projects
 
