@@ -1,10 +1,4 @@
-<h1 align="center">Hi, I'm peyman</h1>
-
-- 🔭 I’m trying to develop new projects
-
-- 🌱 I’m currently learning **python and C**
-
-- 👨‍💻 All of my projects are public and free
+<h1 align="center">Welcome</h1>
 
 - 📫 You can text me on telegrm **@sunpsz**
 
