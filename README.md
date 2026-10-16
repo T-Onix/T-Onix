@@ -1,3 +1,14 @@
+# `whoami` 👾 Peyman (Onix)
+
+Bug bounty hunter & security researcher exploring the space between **breaking systems and building tools**
+
+- ⚡ Web security & vulnerability research
+- 🔍 Reconnaissance and security automation
+- 🐹 Go · Python · Bash
+- 🐧 Linux & open-source enthusiast
+
+*Hack curious. Build relentlessly. Share knowledge.*
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
